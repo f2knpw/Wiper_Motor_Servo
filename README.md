@@ -7,6 +7,6 @@ They are very powerful, they draw 2 to 3A, do not run very fast but have really 
 
 However these motors are DC ones without any solution to control their position. 
 
-So I decided to add a cheap 12bits magnetic encoder AS5600.
+So I decided to add a cheap 12bits magnetic encoder AS5600, to add it to the motor shaft and to pilot all this with an ESP32.
 
 See the project details on hackaday : https://hackaday.io/project/187675-converting-a-wiper-motor-into-a-strong-servo-motor
